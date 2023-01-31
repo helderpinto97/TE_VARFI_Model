@@ -11,4 +11,4 @@ All the details can be found in:
 _Pinto, H., Pernice, R., Silva, M. E., Javorka, M., Faes, L., & Rocha, A. P. (2022). Multiscale partial information decomposition of dynamic processes with short and long-range correlations: theory and application to cardiovascular control. Physiological Measurement, 43(8), 085004._
 
 
-The _analysis_script.m_ shows an example of applying the methodology to cardiovascular series.
+The _analysis_script.m_ presents a pratical example of the methodology using cardiovascular and cardiorespiratory time series.
