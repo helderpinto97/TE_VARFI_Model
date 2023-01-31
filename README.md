@@ -9,3 +9,6 @@ achieved accounting for the simultaneous presence of short-termdynamics and long
 All the details can be found in:
 
 Pinto, H., Pernice, R., Silva, M. E., Javorka, M., Faes, L., & Rocha, A. P. (2022). Multiscale partial information decomposition of dynamic processes with short and long-range correlations: theory and application to cardiovascular control. Physiological Measurement, 43(8), 085004.
+
+
+The \textt{analysis_script} shows an example of applying the methodology to cardiovascular series.
