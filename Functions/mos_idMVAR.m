@@ -14,7 +14,7 @@
 function [pottaic,pottmdl,aic,mdl] = mos_idMVAR(Y,pmax,idMode)
 
 N=size(Y,2);
-M=size(Y,1); %dimensionalit‡ serie
+M=size(Y,1); %dimensionalit√† serie
 
 % figures of merit
 aic=NaN*ones(pmax,1); mdl=aic;
