@@ -8,14 +8,4 @@ achieved accounting for the simultaneous presence of short-termdynamics and long
 
 All the details can be found in:
 
-@article{pinto2022multiscale,
-  title={Multiscale partial information decomposition of dynamic processes with short and long-range correlations: theory and application to cardiovascular control},
-  author={Pinto, H{\'e}lder and Pernice, Riccardo and Silva, Maria Eduarda and Javorka, Michal and Faes, Luca and Rocha, Ana Paula},
-  journal={Physiological Measurement},
-  volume={43},
-  number={8},
-  pages={085004},
-  year={2022},
-  publisher={IOP Publishing}
-}
-
+Pinto, H., Pernice, R., Silva, M. E., Javorka, M., Faes, L., & Rocha, A. P. (2022). Multiscale partial information decomposition of dynamic processes with short and long-range correlations: theory and application to cardiovascular control. Physiological Measurement, 43(8), 085004.
